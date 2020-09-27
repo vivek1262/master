@@ -6,5 +6,8 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Italy" />
     <orderEntry type="module" module-name="demopy" />
+    <orderEntry type="module" module-name="Desktop" />
+    <orderEntry type="module" module-name="git" />
+    <orderEntry type="module" module-name="master" />
   </component>
 </module>
