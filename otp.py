@@ -1,6 +1,16 @@
-import pandas
+import math, random
 
-wiki = pandas.read_html("https://en.wikipedia.org/wiki/2012_Andhra_Pradesh_by-election")
 
-election = wiki[4]
-print(election)
+def generateOTP():
+    string = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()_+'
+    OTP = ""
+    length = len(string)
+    for i in range(6):
+        OTP += string[math.floor(random.random() * length)]
+
+    return OTP
+
+
+
+if __name__ == "__main__":
+    print("OTP of length 6:", generateOTP())

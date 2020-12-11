@@ -4,10 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../Desktop/.idea/Desktop.iml" filepath="$PROJECT_DIR$/../Desktop/.idea/Desktop.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Italy/.idea/Italy.iml" filepath="$PROJECT_DIR$/../Italy/.idea/Italy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PycharmProjects.iml" filepath="$PROJECT_DIR$/.idea/PycharmProjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/../demopy/.idea/demopy.iml" filepath="$PROJECT_DIR$/../demopy/.idea/demopy.iml" />
       <module fileurl="file://$PROJECT_DIR$/../git/.idea/git.iml" filepath="$PROJECT_DIR$/../git/.idea/git.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../demo/.idea/master.iml" filepath="$PROJECT_DIR$/../demo/.idea/master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/.idea/pythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/master.iml" filepath="$PROJECT_DIR$/../.idea/master.iml" />
     </modules>
   </component>
 </project>
