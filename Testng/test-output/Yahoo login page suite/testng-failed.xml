@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Yahoo login page suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Yahoo login test(failed)">
+    <parameter name="emailId" value="vivek254258@yahoo.com"/>
+    <parameter name="url" value="https://login.yahoo.com/"/>
+    <classes>
+      <class name="com.yahoo.Parameters">
+        <methods>
+          <include name="LoginForm" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.yahoo.Parameters -->
+    </classes>
+  </test> <!-- Yahoo login test(failed) -->
+</suite> <!-- Failed suite [Yahoo login page suite] -->
